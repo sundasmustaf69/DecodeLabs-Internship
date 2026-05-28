@@ -1,36 +1,45 @@
-DecodeLabs Internship Projects 🚀
+# 🚀 DecodeLabs Internship Projects
 
-This repository contains all projects completed during my Artificial Intelligence Internship at DecodeLabs.
+This repository contains all the Artificial Intelligence projects completed during my internship at DecodeLabs.
 
-📌 Projects Included
-Project 1 - Rule-Based AI Chatbot 🤖
+---
 
-A simple rule-based chatbot developed using Python.
-The chatbot responds to predefined user inputs using if-else logic and runs continuously until the user exits.
+## 📌 Project 1: Rule-Based AI Chatbot 🤖
 
-Features:
-Greetings handling
-Exit commands
-Help command
-Fun and motivational responses
-Continuous chat loop
-Technologies Used:
-Python
-If-Else Logic
-While Loop
-Project 2 - Data Classification Using AI 🌸
+A simple rule-based chatbot built using Python. It responds to user inputs using if-else conditions and runs in a continuous loop.
 
-A machine learning classification project using Python and Scikit-learn.
-The model classifies data using a supervised learning algorithm.
+### ✨ Features:
+- Greeting responses (Hello, Hi, Assalam o Alaikum)
+- Help command
+- Motivational responses
+- Fun replies (jokes)
+- Exit command (bye)
 
-Features:
-Dataset handling
-Data splitting
-Model training
-Prediction system
-Accuracy checking
-Technologies Used:
-Python
-Pandas
-Scikit-learn
-Decision Tree Classifier
+### 🛠 Technologies Used:
+- Python
+- If-Else Logic
+- While Loop
+
+---
+
+## 📌 Project 2: Data Classification Using AI 🌸
+
+A machine learning project that predicts student performance (Pass/Fail) using a dataset.
+
+### ✨ Features:
+- Dataset loading (CSV file)
+- Train-test split
+- Decision Tree model
+- Model training and prediction
+- Accuracy calculation
+- Custom prediction system
+
+### 🛠 Technologies Used:
+- Python
+- Pandas
+- Scikit-learn
+- Decision Tree Classifier
+
+---
+
+## 📁 Project Structure
