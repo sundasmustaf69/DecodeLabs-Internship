@@ -40,6 +40,4 @@ A machine learning project that predicts student performance (Pass/Fail) using a
 - Scikit-learn
 - Decision Tree Classifier
 
----
 
-## 📁 Project Structure
